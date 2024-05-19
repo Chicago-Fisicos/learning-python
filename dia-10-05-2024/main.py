@@ -8,4 +8,3 @@ resultado2 = restar(3,1)
 print(resultado1)
 print(resultado2)
 print(f'La suma es {resultado1} y la resta es {resultado2}')
-
